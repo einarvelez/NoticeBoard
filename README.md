@@ -8,7 +8,7 @@ This is a simple RESTful CRUD (Create Read Update Delete) application for managi
 
 ## Usage
 
-An application expose 5 REST endpoints for each entity. For example *Notice* (and any other) they are :
+An application expose 5 REST endpoints for each entity. For example *Notice* (and any other) they are:
 
 * **GET** `{baseURL}/notices/` - lists all *Notices* (as Json array),
 * **GET** `{baseURL}/notices/{id}` - gets single *Notice* (as Json) by its `{id}`,
